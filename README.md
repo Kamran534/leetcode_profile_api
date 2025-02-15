@@ -39,29 +39,42 @@ npm install -g leetcode-user-api
 ```javascript
 const { getLeetCodeUser } = require("leetcode-user-api");
 
-getLeetCodeUser("john_doe")
+getLeetCodeUser("kamran534055")
   .then(console.log)
   .catch(console.error);
 ```
 
 ### **2️⃣ Use as CLI**
 ```sh
-leetcode-user john_doe
+leetcode-user kamran534055
 ```
 
 ✅ Output:
-```json
+```kamran534055
 {
-  "username": "john_doe",
-  "realName": "John Doe",
-  "aboutMe": "Passionate coder!",
-  "ranking": 12345,
-  "reputation": 200,
-  "avatar": "https://example.com/avatar.png",
+  "username": "kamran534055",
+  "realName": "Muhammad Kamran",
+  "aboutMe": "N/A",
+  "ranking": 2079378,
+  "reputation": 0,
+  "avatar": "https://assets.leetcode.com/users/kamran534055/avatar_1739624955.png",
   "problemsSolved": [
-    { "difficulty": "Easy", "count": 100 },
-    { "difficulty": "Medium", "count": 120 },
-    { "difficulty": "Hard", "count": 30 }
+    {
+      "difficulty": "All",
+      "count": 40
+    },
+    {
+      "difficulty": "Easy",
+      "count": 21
+    },
+    {
+      "difficulty": "Medium",
+      "count": 18
+    },
+    {
+      "difficulty": "Hard",
+      "count": 1
+    }
   ]
 }
 ```
@@ -79,6 +92,6 @@ leetcode-user john_doe
 ## 💖 Support & Contact
 
 If you find this project helpful, please ⭐ **star the repo** and share it!  
-For any issues or feature requests, [open an issue](https://github.com/yourusername/leetcode-user-api/issues). 🚀
+For any issues or feature requests, [open an issue](https://github.com/Kamran534/leetcode_profile_api?tab=readme-ov-file). 🚀
 
-💻 **Developed by [Muhammad Kamran](https://github.com/yourusername)**
+💻 **Developed by [Muhammad Kamran](https://github.com/kamran534055)**
