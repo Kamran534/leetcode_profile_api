@@ -1,9 +1,9 @@
 # 🚀 LeetCode User API - NPM Package
 
 [![NPM Version](https://img.shields.io/npm/v/leetcode-user-api.svg)](https://www.npmjs.com/package/leetcode-user-api)
-[![License](https://img.shields.io/npm/l/leetcode-user-api.svg)](https://github.com/yourusername/leetcode-user-api/blob/main/LICENSE)
+<!-- [![License](https://img.shields.io/npm/l/leetcode-user-api.svg)](https://github.com/kamran534055/leetcode-user-api/blob/main/LICENSE) -->
 [![Downloads](https://img.shields.io/npm/dt/leetcode-user-api.svg)](https://www.npmjs.com/package/leetcode-user-api)
-[![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/yourusername/leetcode-user-api/issues)
+[![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/Kamran534/leetcode_profile_api?tab=readme-ov-file)
 
 🔍 Fetch LeetCode user profile data using an easy-to-use **Node.js package** & **CLI tool**. Perfect for integrating LeetCode stats into your **projects, bots, or dashboards**! 📊
 
