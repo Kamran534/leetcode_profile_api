@@ -1,3 +1,6 @@
+#!/usr/bin/env node
+
+
 const { getLeetCodeUser } = require("../index");
 
 const username = process.argv[2];

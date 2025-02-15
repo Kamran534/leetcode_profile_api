@@ -94,4 +94,4 @@ leetcode-user kamran534055
 If you find this project helpful, please ⭐ **star the repo** and share it!  
 For any issues or feature requests, [open an issue](https://github.com/Kamran534/leetcode_profile_api?tab=readme-ov-file). 🚀
 
-💻 **Developed by [Muhammad Kamran](https://github.com/kamran534055)**
+💻 **Developed by Muhammad Kamran**
