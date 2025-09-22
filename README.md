@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./public/.png" alt="Vozo Banner" width="100%" />
+</p>
+
 # 🚀 LeetCode User API - NPM Package
 
 [![NPM Version](https://img.shields.io/npm/v/leetcode-user-api.svg)](https://www.npmjs.com/package/leetcode-user-api)
